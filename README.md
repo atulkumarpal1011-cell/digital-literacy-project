@@ -1,62 +1,57 @@
+# Digital Literacy Portfolio - Student Digital Ambassador 🎓
 
-Digital Literacy Portfolio
+*Name:* Atul Kumar Pal
+*Registration Number:* 25BCE10901
+*Course Code:* CSE0001 - Digital Literacy  
+*Branch:* B.Tech. Computer Science and Engineering  
+*Year:* 1st Year  
 
-Course Code: CSE0001 
+---
 
+## 🌟 Project Overview
+As a Student Digital Ambassador at VIT Bhopal University, my role is to help peers navigate the digital world—from building professional profiles to communicating safely and ethically online.This repository documents my journey through the five core modules of the Digital Literacy course, serving as a permanent digital portfolio for my academic and professional career.
 
-Course Title: Digital Literacy 
+---
 
-Name: Atul Kumar Pal
+## 📂 Repository Structure & Module Summaries
 
-Reg No.: 25BCE10901
+### 📊 Task 1: Digital Literacy Awareness Infographic
+*Goal:* Educate batchmates on essential digital tools and safe internet practices.
+*Artifact:* A one-page visual resource created using Canva.
+*Folder:* /task-1-presentation/
 
-Branch: Computer Science and Engineering
+### 💼 Task 2: Student Digital Portfolio
+*Goal:* Establish a professional presence on key platforms.
+*Artifacts:* Profiles set up on GitHub (including a Profile README), LinkedIn, and Kaggle.
+*Folder:* /task-2-portfolio/ 
 
+### 💻 Task 3: Coding & Collaboration Platforms
+*Goal:* Master technical practice tools and cloud-based collaboration.
+*Artifacts:* A completed Python challenge on HackerRank and a 5-question Digital Literacy Awareness Quiz created via Google Forms.
+*Quiz Link:* [Insert Your Google Form Share Link Here] 
+*Folder:* /task-3-platforms/ 
 
-Year: First Year B.Tech 
+### 📧 Task 4: Professional Communication & Ethics
+*Goal:* Practice formal digital correspondence and ethical social media conduct.
+*Artifacts:* Formal email drafts for an assignment extension and an internship application, alongside a Social Media Do’s and Don’ts checklist.
+*Folder:* /task-4-email-etiquette/ 
 
-Project Overview 
+### 🛡️ Task 5: Cybercrime Awareness & Prevention
+*Goal:* Research online threats and promote safe browsing habits.
+*Artifacts:* A detailed case study on Cyberbullying and a "Stay Safe Online" prevention checklist for students in India.
+*Folder:* /task-5-cybercrime/ 
 
-This repository serves as a Digital Literacy Portfolio created in my role as a Student Digital Ambassador. It contains documentation for five specific tasks designed to demonstrate professional online presence, communication safety, and digital collaboration.
-Task Summaries
+---
 
-Task 1: Digital Literacy Awareness Infographic (Module 1)
+## 📜 Final Project Report
+The complete written report, including all technical observations and personal reflections, is available in the report folder.
+*Full Report:* [View Project_Report.pdf](./report/Project_Report.pdf) 
 
-Content: A one-page visual resource explaining the importance of digital literacy.
+---
 
-
-Topics Covered: [List the 3 topics you chose from: what digital literacy is, useful digital tools, safe internet practices, professional online presence, or email etiquette].
-
-
-Tool Used: [Mention Canva, Prezi, or Miro].
-
-
-Files: Located in the task-1-presentation/ folder.
-
-Task 2: Student Digital Portfolio (Module 2)
-
-Content: Foundational professional profiles across key platforms.
-
-
-Platforms: [List 3 platforms, e.g., GitHub, LinkedIn, and Kaggle/Stack Overflow].
-
-
-GitHub Setup: Created a profile README including name, branch, year, and learning goals.
-
-
-Files: Screenshots available in the task-2-portfolio/ folder.
-
-Task 3: Coding & Collaboration Platforms (Module 3)Part A (Coding): Completed a beginner-level challenge on [Mention HackerRank, CodeChef, or HackerEarth].Part B (Collaboration): Developed a 5-question 'Digital Literacy Awareness Quiz'.Quiz Link: [Insert your Google Form Link here].Files: Completion badges and form screenshots are in the task-3-platforms/ folder.
-
-Task 4: Professional Email & Etiquette Guide (Module 4)Content:
-
-Two professional email drafts (extension request and internship interest) and a social media checklist.Checklist: Includes 5 Do’s and 5 Don’ts for responsible social media use.Files: Drafts and checklists are in the task-4-email-etiquette/ folder.
-
-Task 5: Cybercrime Awareness & Prevention (Module 5)Content: A case study on [Mention chosen crime, e.g., Phishing or UPI Fraud] and a 'Stay Safe Online' guide.Prevention: Includes 8 actionable tips and official reporting channels (Helpline 1930).Files: Case study and checklist are in the task-5-cybercrime/ folder.
-
-Final Project Report
-
-The complete written report, covering all tasks and personal reflections, is available here:
-
-
-File: report/Project_Report.pdf (or .docx).
+## 🛠️ Tools Used
+*Version Control:* GitHub 
+*Professional Networking:* LinkedIn, Kaggle 
+*Design:* Canva 
+*Collaboration:* Google Workspace (Forms/Sheets) 
+*Technical Practice:* HackerRank 
