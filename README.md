@@ -28,7 +28,7 @@ As a Student Digital Ambassador at VIT Bhopal University, my role is to help pee
 ### 💻 Task 3: Coding & Collaboration Platforms
 *Goal:* Master technical practice tools and cloud-based collaboration.
 *Artifacts:* A completed Python challenge on HackerRank and a 5-question Digital Literacy Awareness Quiz created via Google Forms.
-*Quiz Link:* [Insert Your Google Form Share Link Here] 
+*Quiz Link:* https://docs.google.com/forms/d/e/1FAIpQLSdKvB6t_9OGCJ9jjnEET1DVQkuaKNp7do_kaRmHgHISuWVWAA/viewform?usp=dialog
 *Folder:* /task-3-platforms/ 
 
 ### 📧 Task 4: Professional Communication & Ethics
